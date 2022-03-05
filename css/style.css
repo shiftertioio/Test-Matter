@@ -1,0 +1,48 @@
+body {
+    background-color: #E2E1DC;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif, Verdana, Geneva, Tahoma;
+    color: #000000;
+
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(255, 255, 255);
+}
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(0, 0, 0);
+    text-decoration: wavy;
+}
+
+.footer {
+    color: #ffffff;
+}
+
+.extendedfooter {
+    background-color:#746d61;
+    width: 100%;
+}
+
+.extendedbackground {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
